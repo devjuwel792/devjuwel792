@@ -26,7 +26,7 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
 </div>
 
 ### 🚀 What I Bring to the Table
