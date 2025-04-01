@@ -25,9 +25,11 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
 
 </picture>
 
-<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
-</div>
+</picture>
 
 ### 🚀 What I Bring to the Table
 
