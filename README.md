@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/devjuwel792/Snake-SVG/blob/main/snake.svg"
+<img src="https://raw.githubusercontent.com/devjuwel792/devjuwel792/63af3dd8daf1e38c25f6a9c82d8a11f6319f2423/gitartwork.svg"
        alt="snake" />
 </div>
 ## 👋 Hi, I'm Juwel Rana
