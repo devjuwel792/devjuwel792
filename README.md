@@ -25,6 +25,10 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
 
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ### 🚀 What I Bring to the Table
 
 - Strong problem-solving abilities with a focus on efficient solutions
