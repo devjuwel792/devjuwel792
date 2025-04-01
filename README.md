@@ -23,7 +23,7 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjuwel792&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
 </picture>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/snake.svg" />
