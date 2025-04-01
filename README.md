@@ -1,5 +1,7 @@
-<img style="margin-top:15px" src="https://media.licdn.com/dms/image/v2/D5616AQGxQBwKfCJV5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718260380723?e=1749081600&v=beta&t=a6yTdYAZjdCDw8NZorP7XiEK91wiakU6Ayu3-HqgmDg" alt="GitHub Banner" width="100%" />
-
+<div align="center">
+<img src="https://github.com/devjuwel792/Snake-SVG/blob/main/snake.svg"
+       alt="snake" />
+</div>
 ## 👋 Hi, I'm Juwel Rana
 
 I'm a passionate Software Developer with over 2+ years of experience in creating robust Software and Web solutions. My expertise spans both back-end and front-end development, with a strong focus on delivering high-quality, scalable applications.
