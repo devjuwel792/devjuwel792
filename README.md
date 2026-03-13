@@ -10,7 +10,7 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devJuwel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dev-juwel) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dev_juwel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developerjuwel792@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devJuwel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-juwel) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dev_juwel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developerjuwel792@gmail.com)
 
 
 ### 💻 Tech Stack:
