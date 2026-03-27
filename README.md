@@ -18,11 +18,13 @@ I'm a passionate **Full Stack Web Developer** with **2+ years of experience** bu
 
 ### 💻 Tech Stack:
 
-```
-Frontend: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3, SCSS, Material Ul
-Backend: C#, ASP.NET Core, Node.js, Express.js, REST API,Entity Framwor, Prisma
-Database: PostgreSQL, MongoDB, SQL Server
-Tools: Git, GitHub, React Query, Redux Toolkit
+```ts
+const skills = {
+  frontend: ["React.js", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "SCSS", "Material UI"],
+  backend: ["C#", "ASP.NET Core", "Node.js", "Express.js", "REST API", "Entity Framework", "Prisma"], 
+  database: ["PostgreSQL", "MongoDB", "SQL Server"], 
+  tools: ["Git", "GitHub", "React Query", "Redux Toolkit"] 
+};
 ```
 
 ## 🌐 Socials:
