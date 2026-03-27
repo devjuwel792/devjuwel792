@@ -14,6 +14,8 @@ I'm a passionate **Full Stack Web Developer** with **2+ years of experience** bu
 - Solving complex technical challenges
 - Learning new technologies and best practices
 
+---
+
 ### 💻 Tech Stack:
 
 ```
@@ -41,21 +43,54 @@ Tools: Git, GitHub, React Query, Redux Toolkit
 </picture>
 
 
-### 💼 Employment
+## 💼 Employment History
 
-**Frontend Developer — Join Venture AI**  
-📍 Dhaka | 📅 Sep 2025 – Present  
-- Built responsive UI with React & Next.js  
-- Integrated REST APIs and optimized performance  
+### 🚀 Frontend Developer — Join Venture AI
+📍 Dhaka, Bangladesh  
+📅 Sep 2025 – Present  
 
-**Full Stack Developer — Starsoft Ltd**  
-📍 Dhaka | 📅 Jan 2025 – Sep 2025  
-- Developed POS & eCommerce systems  
-- Built APIs using ASP.NET Core & PostgreSQL
+- Built responsive, user-friendly interfaces using modern UI practices  
+- Developed and maintained frontend for course selling and e-commerce platforms  
+- Implemented course listings, product pages, cart, and checkout flows  
+- Integrated REST APIs for dynamic data (courses, products, users, orders)  
+- Created reusable components to improve development efficiency  
+- Developed authentication systems (login/signup) and dashboards  
+- Collaborated with backend team to implement new features  
+- Fixed bugs and optimized performance for better UX  
 
-**Full Stack Developer — SoftTask**  
-📍 Dhaka | 📅 Feb 2024 – Dec 2024  
-- Developed scalable web apps with React & .NET Core  
+**Tech Stack:**  
+`React` `Next.js` `Tailwind CSS` `TypeScript` `REST APIs`  
+
+---
+
+### 💻 Full Stack Web Developer — Starsoft Ltd
+📍 Dhaka, Bangladesh  
+📅 January 2025 – September 2025  
+
+- Developed POS and e-commerce software with modern frontend and backend architecture  
+- Built scalable REST APIs using ASP.NET Core integrated with PostgreSQL  
+- Improved application responsiveness by ~35% using optimized React.js solutions  
+- Integrated inventory systems and third-party payment gateways  
+- Collaborated with cross-functional teams for feature delivery  
+
+**Tech Stack:**  
+`React.js` `.NET Core` `ASP.NET Core` `PostgreSQL` `Tailwind CSS` `React Query`  
+
+---
+
+### 🏢 Full Stack Web Developer — SoftTask
+📍 Dhaka, Bangladesh  
+📅 February 2024 – December 2024  
+
+- Developed scalable web applications using ASP.NET Core and React.js  
+- Focused on performance optimization and maintainable architecture  
+- Collaborated with product managers and designers to deliver enterprise solutions  
+- Worked on ERP and hospitality-related systems  
+
+**Tech Stack:**  
+`C#` `ASP.NET Core` `React.js` `TypeScript` `SQL`  
+
+
 
 ---
 
@@ -66,6 +101,9 @@ Tools: Git, GitHub, React Query, Redux Toolkit
 
 **Diploma in Computer Technology — Dinajpur Polytechnic Institute**  
 📅 2019 – 2023 | CGPA: 3.80/4.00  
+
+---
+
 ### 🚀 What I Bring to the Table
 
 - Strong problem-solving abilities with a focus on efficient solutions
@@ -73,6 +111,7 @@ Tools: Git, GitHub, React Query, Redux Toolkit
 - Expertise in developing custom WordPress solutions
 - Proficiency in modern JavaScript frameworks
 - Knowledge of AI integration in web applications
+  
 
 ### 💡 Philosophy
 
