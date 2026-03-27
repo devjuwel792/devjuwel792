@@ -31,7 +31,31 @@ I'm a passionate Software Developer with over 2+ years of experience in creating
 </picture>
 
 
+### 💼 Employment
 
+**Frontend Developer — Join Venture AI**  
+📍 Dhaka | 📅 Sep 2025 – Present  
+- Built responsive UI with React & Next.js  
+- Integrated REST APIs and optimized performance  
+
+**Full Stack Developer — Starsoft Ltd**  
+📍 Dhaka | 📅 Jan 2025 – Sep 2025  
+- Developed POS & eCommerce systems  
+- Built APIs using ASP.NET Core & PostgreSQL
+
+**Full Stack Developer — SoftTask**  
+📍 Dhaka | 📅 Feb 2024 – Dec 2024  
+- Developed scalable web apps with React & .NET Core  
+
+---
+
+### 🎓 Education
+
+**BSc in CSE — Northern University Bangladesh**  
+📅 2025 – Present  
+
+**Diploma in Computer Technology — Dinajpur Polytechnic Institute**  
+📅 2019 – 2023 | CGPA: 3.80/4.00  
 ### 🚀 What I Bring to the Table
 
 - Strong problem-solving abilities with a focus on efficient solutions
