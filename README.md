@@ -26,7 +26,11 @@ const skills = {
   tools: ["Git", "GitHub", "React Query", "Redux Toolkit"] 
 };
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuwel792&layout=compact)
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjuwel792&" alt="devjuwel792" /></p>
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devJuwel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-juwel) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dev_juwel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developerjuwel792@gmail.com)
