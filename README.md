@@ -30,6 +30,20 @@ const skills = {
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjuwel792&" alt="devjuwel792" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devjuwel792"
+    alt="devjuwel792"
+    height="170"
+  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuwel792&layout=compact&hide=php,html,css"
+      alt="Top Languages"
+      height="170"
+    />
+  </a>
+</p>
 
 ## 🌐 Socials:
 
