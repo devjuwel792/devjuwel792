@@ -29,7 +29,6 @@ const skills = {
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjuwel792&" alt="devjuwel792" /></p>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=devjuwel792"
