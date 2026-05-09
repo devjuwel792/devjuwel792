@@ -1,9 +1,9 @@
 <!--<div align="center">
 <img src="https://raw.githubusercontent.com/devjuwel792/devjuwel792/63af3dd8daf1e38c25f6a9c82d8a11f6319f2423/gitartwork.svg"
        alt="snake" />
-</div> -->
+</div>
 <img style="margin-top:15px" src="./banner.png" alt="GitHub Banner" width="100%" />
-
+ -->
 ## 👋 Hi, I'm Juwel Rana
 I'm a passionate **Full Stack Web Developer** with **2+ years of experience** building responsive, user-friendly web applications. I specialize in **Express.js**, **React.js**, **Next.js**, **.NET Core**, **ASP.NET Core**, and **PostgreSQL**, with a strong foundation in both frontend and backend technologies.
 
